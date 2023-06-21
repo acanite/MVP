@@ -1,10 +1,10 @@
 <div align="center">
 
-# @dwyl App MVP 💡 ⏳ ✅
+# @acanite App MVP 💡 ⏳ ✅
 
 The most basic version
 of the **@dwyl App**
-[**MVP** feature set](https://github.com/dwyl/app/issues/266).
+[**MVP** feature set](https://github.com/acanite/app/issues/266).
 
 # _Please `try` it_: [mvp.fly.dev](https://mvp.fly.dev/) 🙏
 
@@ -24,7 +24,7 @@ And help us to ...
 </div>
 <br />
 
-- [@dwyl App MVP 💡 ⏳ ✅](#dwyl-app-mvp---)
+- [@acanite App MVP 💡 ⏳ ✅](#acanite-app-mvp---)
 - [_Please `try` it_: mvp.fly.dev 🙏](#please-try-it-mvpflydev-)
 - [Why? 🤷‍♀️](#why-️)
 - [_What_? 💭](#what-)
