@@ -1,9 +1,9 @@
 <div align="center">
 
-# @dwyl App MVP 💡 ⏳ ✅
+# @acanite App MVP 💡 ⏳ ✅
 
 The most basic version
-of the **@dwyl App**
+of the **@acanite App**
 [**MVP** feature set](https://github.com/dwyl/app/issues/266).
 
 # _Please `try` it_: [mvp.fly.dev](https://mvp.fly.dev/) 🙏
@@ -15,16 +15,16 @@ And help us to ...
 </a>
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dwyl/mvp/ci.yml?label=build&style=flat-square&branch=main)
-[![codecov.io](https://img.shields.io/codecov/c/github/dwyl/mvp/main.svg?style=flat-square)](http://codecov.io/github/dwyl/mvp?branch=main)
+[![codecov.io](https://img.shields.io/codecov/c/github/acanite/mvp/main.svg?style=flat-square)](http://codecov.io/github/acanite/mvp?branch=main)
 [![Hex.pm](https://img.shields.io/hexpm/v/elixir_auth_google?color=brightgreen&style=flat-square)](https://hex.pm/packages/elixir_auth_google)
-[![contributions welcome](https://img.shields.io/badge/feedback-welcome-brightgreen.svg?style=flat-square)](https://github.com/dwyl/app-mvp/issues)
-[![HitCount](https://hits.dwyl.com/dwyl/app-mvp.svg)](https://hits.dwyl.com/dwyl/app-mvp)
+[![contributions welcome](https://img.shields.io/badge/feedback-welcome-brightgreen.svg?style=flat-square)](https://github.com/acanite/app-mvp/issues)
+[![HitCount](https://hits.acanite.com/acanite/app-mvp.svg)](https://hits.acanite.com/dwyl/app-mvp)
 
 
 </div>
 <br />
 
-- [@dwyl App MVP 💡 ⏳ ✅](#dwyl-app-mvp---)
+- [@dwyl App MVP 💡 ⏳ ✅](#acanite-app-mvp---)
 - [_Please `try` it_: mvp.fly.dev 🙏](#please-try-it-mvpflydev-)
 - [Why? 🤷‍♀️](#why-️)
 - [_What_? 💭](#what-)
