@@ -1,10 +1,10 @@
 <div align="center">
 
-# @dwyl App MVP 💡 ⏳ ✅
+# @acanite App MVP 💡 ⏳ ✅
 
 The most basic version
-of the **@dwyl App**
-[**MVP** feature set](https://github.com/dwyl/app/issues/266).
+of the **@acaniye App**
+[**MVP** feature set](https://github.com/acanite/app/issues/266).
 
 # _Please `try` it_: [mvp.fly.dev](https://mvp.fly.dev/) 🙏
 
@@ -15,16 +15,16 @@ And help us to ...
 </a>
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dwyl/mvp/ci.yml?label=build&style=flat-square&branch=main)
-[![codecov.io](https://img.shields.io/codecov/c/github/dwyl/mvp/main.svg?style=flat-square)](http://codecov.io/github/dwyl/mvp?branch=main)
+[![codecov.io](https://img.shields.io/codecov/c/github/acanite/mvp/main.svg?style=flat-square)](http://codecov.io/github/acanite/mvp?branch=main)
 [![Hex.pm](https://img.shields.io/hexpm/v/elixir_auth_google?color=brightgreen&style=flat-square)](https://hex.pm/packages/elixir_auth_google)
-[![contributions welcome](https://img.shields.io/badge/feedback-welcome-brightgreen.svg?style=flat-square)](https://github.com/dwyl/app-mvp/issues)
-[![HitCount](https://hits.dwyl.com/dwyl/app-mvp.svg)](https://hits.dwyl.com/dwyl/app-mvp)
+[![contributions welcome](https://img.shields.io/badge/feedback-welcome-brightgreen.svg?style=flat-square)](https://github.com/acanite/app-mvp/issues)
+[![HitCount](https://hits.dwyl.com/acanite/app-mvp.svg)](https://hits.dwyl.com/acanite/app-mvp)
 
 
 </div>
 <br />
 
-- [@dwyl App MVP 💡 ⏳ ✅](#dwyl-app-mvp---)
+- [@dwyl App MVP 💡 ⏳ ✅](#acanite-app-mvp---)
 - [_Please `try` it_: mvp.fly.dev 🙏](#please-try-it-mvpflydev-)
 - [Why? 🤷‍♀️](#why-️)
 - [_What_? 💭](#what-)
@@ -44,10 +44,10 @@ And help us to ...
 # Why? 🤷‍♀️ 
 
 Our goal with this
-[MVP](https://github.com/dwyl/technical-glossary/issues/44)
+[MVP](https://github.com/acanite/technical-glossary/issues/44)
 is to build the **minimal _usable_ App** <br />
 that covers our basic "***Capture, Categorize, Complete***"
-[**workflow**](https://github.com/dwyl/product-roadmap#what). <br />
+[**workflow**](https://github.com/acanite/product-roadmap#what). <br />
 It is well-documented, tested
 and easy for a beginner to run & understand.
 
@@ -57,7 +57,7 @@ Fly:
 and _use/test_ it (_internally_). <br />
 After collecting initial feedback,
 we will integrate it into the main
-[dwyl/**app**](https://github.com/dwyl/app) 
+[acanite/**app**](https://github.com/acanite/app) 
 repo.<br />
 We maintain this repo
 as a **reference** for **new joiners** <br />
@@ -72,7 +72,7 @@ Our
 for building this MVP
 (and subsequent [App](https://github.com/dwyl/app))
 is that we felt the 
-[_pain_](https://github.com/dwyl/app/issues/213#issuecomment-650531694)
+[_pain_](https://github.com/acanite/app/issues/213#issuecomment-650531694)
 of _not_ having it!
 
 ![nelson-persona](https://user-images.githubusercontent.com/194400/85919307-faf63780-b861-11ea-959c-6a16f0d251fb.png)
@@ -90,7 +90,7 @@ and keep track of it
 to be a 
 ["keystone"](https://en.wikipedia.org/wiki/Keystone_(architecture)#Metaphor)
 to what we want to build in the 
-[future](https://github.com/dwyl/phase-two).
+[future](https://github.com/acanite/phase-two).
 If you _agree_,
 please let us know.
 
@@ -159,12 +159,12 @@ from
 we **built** the two _separate_ apps:
 
 1. Todo list: 
-   [github.com/dwyl/phoenix-liveview-**todo-list**](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial)
+   [github.com/acanite/phoenix-liveview-**todo-list**](https://github.com/acanite/phoenix-liveview-todo-list-tutorial)
 2. Stop Watch (Timer):
-   [github.com/dwyl/phoenix-liveview-**stopwatch**](https://github.com/dwyl/phoenix-liveview-stopwatch)
+   [github.com/dwyl/phoenix-liveview-**stopwatch**](https://github.com/acanite/phoenix-liveview-stopwatch)
 <!--
 3. Chat (Communication): 
-   [github.com/dwyl/phoenix-liveview-**chat**](https://github.com/dwyl/phoenix-liveview-chat-example)
+   [github.com/acanite/phoenix-liveview-**chat**](https://github.com/acanite/phoenix-liveview-chat-example)
 --> 
 
 We encourage you to read 
@@ -196,10 +196,10 @@ It will _definitely_ change over time
 as we _use_ the App 
 and collect _feedback_. 💬<br />
 If you want to _help_ make it better,
-[share your thoughts!](https://github.com/dwyl/app-mvp/issues/) 🙏
+[share your thoughts!](https://github.com/acanite/app-mvp/issues/) 🙏
 
 More detail on the MVP features: 
-[dwyl/app/issues/265](https://github.com/dwyl/app/issues/265)
+[dwyl/app/issues/265](https://github.com/acanite/app/issues/265)
 
 <br />
 
@@ -207,7 +207,7 @@ More detail on the MVP features:
 
 This **MVP** has **_two_ target audiences**:
 
-1. **@dwyl team** to 
+1. **@acanite team** to 
   ["dogfood"](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)
   the basic workflow in our App. <br />
   It's meant to work for _us_
@@ -220,7 +220,7 @@ This **MVP** has **_two_ target audiences**:
   with good documentation and testing.
 
 _Longer_ term, the MVP 
-will help future @dwyl team members
+will help future @acanite team members
 get 
 [**up-to-speed**](https://dictionary.cambridge.org/dictionary/english/up-to-speed) 
 on our App & Stack **_much_ faster**.
@@ -231,7 +231,7 @@ Your feedback is very much encouraged/welcome! 💬<br />
 If you find the repo interesting/useful, please ⭐ on GitHub. <br />
 And if you have any questions,
 please open an issue:
-[app-mvp/issues](https://github.com/dwyl/app-mvp/issues) ❓
+[app-mvp/issues](https://github.com/acanite/app-mvp/issues) ❓
 <br />
 
 
@@ -297,14 +297,14 @@ can follow along.
 
 If you spot a gap in the docs,
 please 
-[let us know!](https://github.com/dwyl/app-mvp/issues)
+[let us know!](https://github.com/acanite/app-mvp/issues)
 
 
 ## Tech Stack? 🧰
 
 This **MVP** app uses the **`PETAL` Stack**
 described in: 
-[dwyl/**technology-stack**](https://github.com/dwyl/technology-stack)
+[dwyl/**technology-stack**](https://github.com/acanite/technology-stack)
 
 Going through the individual feature apps listed 
 [above](#two-apps-in-one-️)
@@ -323,19 +323,19 @@ as the code is **_deliberately_ simple**.
 > **Note**: You will need to have 
 **`Elixir`** and **`Postgres` installed**, <br />
 see: 
-[learn-elixir#installation](https://github.com/dwyl/learn-elixir#installation)
+[learn-elixir#installation](https://github.com/acanite/learn-elixir#installation)
 and 
-[learn-postgresql#installation](https://github.com/dwyl/learn-postgresql#installation)
+[learn-postgresql#installation](https://github.com/acanite/learn-postgresql#installation)
 
 > **Tip**: check the prerequisites in:
-> [**/phoenix-chat-example**](https://github.com/dwyl/phoenix-chat-example#0-pre-requisites-before-you-start)
+> [**/phoenix-chat-example**](https://github.com/acanite/phoenix-chat-example#0-pre-requisites-before-you-start)
 
 On your `localhost`, 
 run the following commands 
 in your terminal:
 
 ```sh
-git clone git@github.com:dwyl/app-mvp.git && cd app-mvp
+git clone git@github.com:acanite/app-mvp.git && cd app-mvp
 source .env_sample
 mix setup
 ```
@@ -347,7 +347,7 @@ and create the necessary database + tables.
 The line 
 `source .env_sample` 
 loads the 
-[environment variables](https://github.com/dwyl/learn-environment-variables)
+[environment variables](https://github.com/acanite/learn-environment-variables)
 required to run the App.
 
 
@@ -365,7 +365,7 @@ mix setup
 ## _Single_ Environment Variable: `AUTH_API_KEY`
 
 Follow the instructions in **Step 2** of
-[**`auth_plug`**](https://github.com/dwyl/auth_plug#2-get-your-auth_api_key-)
+[**`auth_plug`**](https://github.com/acanite/auth_plug#2-get-your-auth_api_key-)
 to create your 
 **`AUTH_API_KEY`**.
 
@@ -388,7 +388,7 @@ and start your tour!
 
 If you want to understand how to _build_ the MVP,
 please see:
-[**`BUILDIT.md`**](https://github.com/dwyl/app-mvp/blob/main/BUILDIT.md)
+[**`BUILDIT.md`**](https://github.com/acanite/app-mvp/blob/main/BUILDIT.md)
 
 <br />
 
@@ -411,7 +411,7 @@ c. **Clone** the repo to your `localhost`
 
 For more detail,
 please see:
-[dwyl/**contributing**](https://github.com/dwyl/contributing)
+[dwyl/**contributing**](https://github.com/acanite/contributing)
 
 ### More Features? 🔔
 
@@ -420,8 +420,8 @@ is _not_ to have _all_ the features;
 again, it's _deliberately_  simple.<br />
 We will be adding _lots_ more features
 to the _full_
-[**App**](https://github.com/dwyl/app). <br />
+[**App**](https://github.com/acanite/app). <br />
 If you have feature ideas, that's great! 🎉 <br />
 Please _share_ them: 
-[**app/issues**](https://github.com/dwyl/app/issues)
+[**app/issues**](https://github.com/acanite/app/issues)
 
